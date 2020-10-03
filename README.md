@@ -4,4 +4,4 @@
 
 This code is the implementation of 'Adversarial Learning for Overlapping Community Detection and Network Embedding'
 
-Due to the Wuhan virus impact, all data and codes will be released ASAP. Thank you for your patience.
+https://ecai2020.eu/papers/150_paper.pdf
